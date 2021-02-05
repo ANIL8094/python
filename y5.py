@@ -1,0 +1,5 @@
+f = open("anil.txt")
+print(f.readline())
+f.seek(10)
+print(f.readline())
+f.close()

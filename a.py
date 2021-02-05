@@ -1,0 +1,1 @@
+mystr = "Harry is a good boy"
